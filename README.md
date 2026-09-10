@@ -4,7 +4,7 @@
 1. Configuration préalable dans VLC
 Avant de créer le raccourci, assurez-vous que VLC est configuré pour accepter les ajouts à la file d'attente :
 ﻿
-Ouvrez VLC.
+ Ouvrez VLC.
  Allez dans Outils > Préférences (ou Ctrl + P). 
  Dans l'onglet Interface, cochez les cases :
  N'autoriser qu'une seule instance
